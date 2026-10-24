@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e" />
+      <stop offset="100%" stop-color="#0f0f1a" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e94560" />
+      <stop offset="50%" stop-color="#f5c518" />
+      <stop offset="100%" stop-color="#c71585" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="80%" stop-color="#f0f0f5" />
+      <stop offset="100%" stop-color="#e94560" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#e94560" flood-opacity="0.4" />
+    </filter>
+  </defs>
+
+  <!-- Luxury squircle background -->
+  <rect x="12" y="12" width="488" height="488" rx="112" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="14" />
+
+  <!-- Gold diamond emblem -->
+  <polygon points="256,38 270,52 256,66 242,52" fill="#f5c518" />
+
+  <!-- Monogram UV in Serif Display -->
+  <g filter="url(#glow)">
+    <text x="256" y="345"
+          font-family="'Playfair Display', Didot, 'Times New Roman', serif"
+          font-size="260"
+          font-weight="700"
+          letter-spacing="4"
+          fill="url(#textGrad)"
+          text-anchor="middle">UV</text>
+  </g>
+</svg>
