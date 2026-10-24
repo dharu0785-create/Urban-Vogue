@@ -23,7 +23,15 @@ export default function ProductCard({ product }) {
   return (
     <div className="product-card">
       <div className="product-card-image">
-        <img src={product.image} alt={product.name} loading="lazy" />
+        <img
+          src={product.image}
+          alt={product.name}
+          loading="lazy"
+          onError={(e) => {
+            e.currentTarget.onerror = null;
+            e.currentTarget.src = "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=600&auto=format&fit=crop&q=80";
+          }}
+        />
         <div className="product-card-overlay">
           <button
             className={`add-to-cart-btn ${added ? 'added' : ''}`}

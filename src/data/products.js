@@ -8,8 +8,8 @@ const products = [
   { id: 6, name: "Tailored Royal Blue Formal Shirt", category: "Shirts", price: 2499, rating: 4.8, image: "https://images.unsplash.com/photo-1626497764746-6dc36546b388?w=600&auto=format&fit=crop&q=80" },
   { id: 7, name: "Textured Cotton Chambray Shirt", category: "Shirts", price: 1899, rating: 4.5, image: "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=600&auto=format&fit=crop&q=80" },
   { id: 8, name: "Camp Collar Summer Resort Shirt", category: "Shirts", price: 1699, rating: 4.3, image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&auto=format&fit=crop&q=80" },
-  { id: 9, name: "Brushed Cotton Plaid Flannel", category: "Shirts", price: 2199, rating: 4.7, image: "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=600&auto=format&fit=crop&q=80" },
-  { id: 10, name: "Executive Slim Fit White Shirt", category: "Shirts", price: 2399, rating: 4.9, image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600&auto=format&fit=crop&q=80" },
+  { id: 9, name: "Brushed Cotton Plaid Flannel", category: "Shirts", price: 2199, rating: 4.7, image: "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?w=600&auto=format&fit=crop&q=80" },
+  { id: 10, name: "Executive Slim Fit White Shirt", category: "Shirts", price: 2399, rating: 4.9, image: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&auto=format&fit=crop&q=80" },
 
   // 11-20: Gents T-Shirts & Polos
   { id: 11, name: "Supima Cotton Crew Neck Tee", category: "T-Shirts", price: 1599, rating: 4.8, image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&auto=format&fit=crop&q=80" },
