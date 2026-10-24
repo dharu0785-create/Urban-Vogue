@@ -104,9 +104,9 @@ export default function Contact() {
               <h3>🏢 Operating Address</h3>
               <p><strong>Dharu ram</strong></p>
               <p>(Trade Name: Urban Vogue)</p>
-              <p>GSTIN: 08DZEPR0476M1ZR</p>
+              <p>GSTIN: 08DZEPR076M1ZR</p>
               <p style={{ marginTop: '0.5rem' }}>
-                Rajasthan, India
+                Rajasthan, India — PIN: 342022
               </p>
             </div>
             <div className="contact-info-card">

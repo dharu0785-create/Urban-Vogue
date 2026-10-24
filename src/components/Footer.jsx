@@ -7,6 +7,12 @@ export default function Footer() {
         <div className="footer-grid">
           <div>
             <div className="footer-brand">Urban Vogue</div>
+            <div className="footer-desc" style={{ fontSize: '0.88rem', lineHeight: '1.7', color: 'var(--color-text-secondary)' }}>
+              <p><strong>Owner:</strong> Dharu ram</p>
+              <p><strong>GST No:</strong> 08DZEPR076M1ZR</p>
+              <p><strong>State:</strong> Rajasthan</p>
+              <p><strong>PIN:</strong> 342022</p>
+            </div>
           </div>
 
           <div className="footer-col">
