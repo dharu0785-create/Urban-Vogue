@@ -13,7 +13,7 @@ export default function About() {
           <div className="about-text">
             <h2>Who We Are</h2>
             <p>
-              Urban Vogue is a premium fashion brand and the trade name of <strong>Dharu ram</strong>,
+              Urban Vogue is a premium gents fashion brand and the trade name of <strong>Dharu ram</strong>,
               registered under GSTIN <strong>08DZEPR0476M1ZR</strong>. We believe that style shouldn't
               come with a hefty price tag — which is why every piece in our collection is priced between
               ₹1,500 and ₹3,000.
@@ -31,8 +31,8 @@ export default function About() {
           </div>
           <div className="about-image">
             <img
-              src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop"
-              alt="Urban Vogue fashion studio"
+              src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&auto=format&fit=crop&q=80"
+              alt="Urban Vogue gents fashion tailoring"
             />
           </div>
         </div>
@@ -53,8 +53,8 @@ export default function About() {
           </div>
           <div className="about-image" style={{ direction: 'ltr' }}>
             <img
-              src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&h=400&fit=crop"
-              alt="Urban Vogue quality craftsmanship"
+              src="https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=600&auto=format&fit=crop&q=80"
+              alt="Urban Vogue gents quality craftsmanship"
             />
           </div>
         </div>

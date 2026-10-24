@@ -35,7 +35,7 @@ export default function Shop() {
         <div className="shop-header">
           <h1 className="section-title">Shop All</h1>
           <p className="section-subtitle">
-            Browse our complete collection of {products.length} premium items, all priced between ₹1,500 and ₹3,000.
+            Browse our complete collection of {products.length} premium gents clothing items, all priced between ₹1,500 and ₹3,000.
           </p>
         </div>
 

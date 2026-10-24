@@ -38,8 +38,8 @@ export default function Home() {
             Redefine Your <span>Style</span> With Urban Vogue
           </h1>
           <p className="hero-subtitle">
-            Discover premium fashion curated for the modern you. From timeless classics
-            to trending styles — all between ₹1,500 and ₹3,000.
+            Discover premium gents clothing curated for the modern gentleman. From crisp shirts
+            and tailored jackets to premium denim and ethnic wear — all between ₹1,500 and ₹3,000.
           </p>
           <div className="hero-actions">
             <Link to="/shop" className="btn btn-primary">Shop Now →</Link>
