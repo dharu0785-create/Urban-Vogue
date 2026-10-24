@@ -7,11 +7,6 @@ export default function Footer() {
         <div className="footer-grid">
           <div>
             <div className="footer-brand">Urban Vogue</div>
-            <p className="footer-desc">
-              A trade name of Dharu ram. Premium fashion for the modern you.
-              GSTIN: 08DZEPR0476M1ZR. Curating style since day one, with
-              prices ranging from ₹1,500 to ₹3,000.
-            </p>
           </div>
 
           <div className="footer-col">
