@@ -105,7 +105,7 @@ export default function Terms() {
           <p>
             For questions regarding these Terms, contact us at:<br />
             Email: support@urbanvogue.in<br />
-            Phone: +91 98765 43210
+            Phone: +91 99817 82579
           </p>
         </div>
       </div>

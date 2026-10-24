@@ -97,7 +97,7 @@ export default function Contact() {
             </div>
             <div className="contact-info-card">
               <h3>📞 Phone</h3>
-              <p>+91 98765 43210</p>
+              <p>+91 99817 82579</p>
               <p>Mon – Sat, 10:00 AM – 7:00 PM IST</p>
             </div>
             <div className="contact-info-card">

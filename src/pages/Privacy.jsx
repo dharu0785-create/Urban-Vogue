@@ -115,7 +115,7 @@ export default function Privacy() {
             <strong>Dharu ram</strong> (Trading as Urban Vogue)<br />
             GSTIN: 08DZEPR0476M1ZR<br />
             Email: privacy@urbanvogue.in<br />
-            Phone: +91 98765 43210
+            Phone: +91 99817 82579
           </p>
         </div>
       </div>
